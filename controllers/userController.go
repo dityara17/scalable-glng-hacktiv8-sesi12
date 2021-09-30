@@ -3,9 +3,9 @@ package controllers
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"go-jwt/database"
-	"go-jwt/helpers"
-	"go-jwt/models"
+	"go-jwt-glng-aditya/database"
+	"go-jwt-glng-aditya/helpers"
+	"go-jwt-glng-aditya/models"
 	"log"
 	"net/http"
 )
